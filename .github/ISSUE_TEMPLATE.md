@@ -1,4 +1,4 @@
-* pylove version:
+* pyloves version:
 * Python version:
 * Operating System:
 

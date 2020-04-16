@@ -10,7 +10,7 @@ with open('README.rst') as readme_file:
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
-requirements = [ 'googletrans', 'cryptography' ]
+requirements = [ 'cryptography', 'googletrans' ]
 
 setup_requirements = [ ]
 
@@ -36,13 +36,13 @@ setup(
     license="MIT license",
     long_description=readme + '\n\n' + history,
     include_package_data=True,
-    keywords='pylove',
+    keywords='pyloves',
     name='pyloves',
-    packages=find_packages(include=['pylove', 'pylove.*']),
+    packages=find_packages(include=['pyloves', 'pyloves.*']),
     setup_requires=setup_requirements,
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/jsprieto10/pylove',
+    url='https://github.com/jsprieto10/pyloves',
     version='0.1.0',
     zip_safe=False,
 )

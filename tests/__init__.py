@@ -1,1 +1,1 @@
-"""Unit test package for pylove."""
+"""Unit test package for pyloves."""

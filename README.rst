@@ -35,8 +35,8 @@ There are 3 main features
 
 Usage
 --------
-
-from pylove.pylove import encrypt_file, decrypt_file, say_love
+An example::
+from pyloves.pyloves import encrypt_file, decrypt_file, say_love
 
 
 encrypt_file("16-octubre", "file_input.txt") # Generates .bejaranoEncrypt file

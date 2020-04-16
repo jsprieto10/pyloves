@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=pylove
+set SPHINXPROJ=pyloves
 
 if "%1" == "" goto help
 

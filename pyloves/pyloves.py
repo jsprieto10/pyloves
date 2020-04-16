@@ -1,4 +1,3 @@
-"""Main module."""
 from googletrans import Translator
 import base64
 import os

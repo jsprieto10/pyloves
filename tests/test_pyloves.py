@@ -1,15 +1,15 @@
 #!/usr/bin/env python
 
-"""Tests for `pylove` package."""
+"""Tests for `pyloves` package."""
 
 
 import unittest
 
-from pylove import pylove
+from pyloves import pyloves
 
 
-class TestPylove(unittest.TestCase):
-    """Tests for `pylove` package."""
+class TestPyloves(unittest.TestCase):
+    """Tests for `pyloves` package."""
 
     def setUp(self):
         """Set up test fixtures, if any."""

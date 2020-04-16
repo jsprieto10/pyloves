@@ -2,6 +2,6 @@
 Usage
 =====
 
-To use pylove in a project::
+To use pyloves in a project::
 
-    import pylove
+    import pyloves

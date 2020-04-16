@@ -1,4 +1,4 @@
-Welcome to pylove's documentation!
+Welcome to pyloves's documentation!
 ======================================
 
 .. toctree::
