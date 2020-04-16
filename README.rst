@@ -23,6 +23,15 @@ Pyloveis a python library create to show all my love and creativity to Sara Mari
 * Documentation: https://pylove.readthedocs.io.
 
 
+Stable release
+--------------
+
+To install pyloves, run this command in your terminal:
+
+.. code-block:: console
+
+    $ pip install pyloves
+
 Features
 --------
 
@@ -35,13 +44,14 @@ There are 3 main features
 
 Usage
 --------
-An example::
-from pyloves.pyloves import encrypt_file, decrypt_file, say_love
+.. code-block:: python
+
+    from pyloves.pyloves import encrypt_file, decrypt_file, say_love
 
 
-encrypt_file("16-octubre", "file_input.txt") # Generates .bejaranoEncrypt file
-decrypt_file( "16-octubre", "file_input.txt.bejaranoEncrypt") # In this example is going to override first input path
-say_love() # prints 'Love you' in random language
+    encrypt_file("16-octubre", "file_input.txt") \# Generates .bejaranoEncrypt file
+    decrypt_file( "16-octubre", "file_input.txt.bejaranoEncrypt") \# In this example is going to override first input path
+    say_love() \# prints 'Love you' in random language
 
 
 Credits
