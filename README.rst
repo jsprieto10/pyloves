@@ -49,9 +49,9 @@ Usage
     from pyloves.pyloves import encrypt_file, decrypt_file, say_love
 
 
-    encrypt_file("16-octubre", "file_input.txt") \# Generates .bejaranoEncrypt file
-    decrypt_file( "16-octubre", "file_input.txt.bejaranoEncrypt") \# In this example is going to override first input path
-    say_love() \# prints 'Love you' in random language
+    encrypt_file("16-octubre", "file_input.txt") # Generates .bejaranoEncrypt file
+    decrypt_file( "16-octubre", "file_input.txt.bejaranoEncrypt") # In this example is going to override first input path
+    say_love() # prints 'Love you' in random language
 
 
 Credits
