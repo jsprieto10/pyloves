@@ -16,7 +16,7 @@ pylove
 
 
 
-Pyloveis a python library create to show all my love and creativity to Sara Maria Bejarano the love of my live
+Pyloves is a python library create to show all my love and creativity to Sara Maria Bejarano the love of my live
 
 
 * Free software: MIT license
