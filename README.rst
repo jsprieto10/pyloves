@@ -25,6 +25,7 @@ Pyloveis a python library create to show all my love and creativity to Sara Mari
 
 Stable release
 --------------
+check the stable relase at https://pypi.org/project/pyloves/
 
 To install pyloves, run this command in your terminal:
 
