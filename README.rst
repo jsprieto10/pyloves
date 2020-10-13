@@ -3,13 +3,13 @@ pylove
 ======
 
 
-.. image:: https://img.shields.io/pypi/v/pylove.svg
-        :target: https://pypi.python.org/pypi/pylove
+.. image:: https://img.shields.io/pypi/v/pyloves.svg
+        :target: https://pypi.python.org/pypi/pyloves
 
-.. image:: https://img.shields.io/travis/jsprieto10/pylove.svg
-        :target: https://travis-ci.com/jsprieto10/pylove
+.. image:: https://img.shields.io/travis/jsprieto10/pyloves.svg
+        :target: https://travis-ci.com/jsprieto10/pyloves
 
-.. image:: https://readthedocs.org/projects/pylove/badge/?version=latest
+.. image:: https://readthedocs.org/projects/pyloves/badge/?version=latest
         :target: https://pylove.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
